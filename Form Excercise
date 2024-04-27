@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <body style="background-color:pink;">
+  <title>Replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+    <img src="1698819254657.jfif" alt="Movie Image" 
+       style="float:right; width:280px;height:200px;">
+</head>
+  <body>
+     <script src="script.js"></script>
+  
+  <form>
+  <label for="fname"> First name :    </label>
+  <input type="text" id="fname" name= "fname"><br>
+    <br>
+  <label for="mname">Middle name:</label>
+  <input type="text" id="fname" name="fname"><br>
+  <br>
+  <label for="mname">Last name:</label>
+  <input type="text" id="fname" name="fname">
+    <br>
+  <form action="/action_page.php">
+    <br>
+       <form>
+         <label>Course:</label>
+         <select>
+           <option value="0">Courses</option>
+           <option value="1">001_Design</option>
+           <option value="2">002_Code</option>
+           <option value="3">003_History</option>
+           <option value="4">004_Biology</option>
+         </select>
+       </form>
+      </select>
+      <br><br>
+    <br>
+    <label for="fname"> Phone:</label>
+    <input type="text" id="fname" name= "fname">
+  <br>
+  <br>
+    <form action="/action_page.php">
+      <p><label for="adress">Address:</label></p>
+      <textarea id="w3review" name="w3review" rows="4" cols="50"></textarea>
+      <br>
+      <br>
+      <label for="fname"> Email :  </label>
+      <input type="text" id="fname" name= "fname"><br>
+
+
+      <br>
+      <br><br><br><br><br> <!--Line Spacers-->
+      <input type="submit" value="Submit">
+      
+    </form>
+<body>
+  <main>
+
+        
+    </style>
+</body>
+
+</html
